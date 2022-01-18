@@ -1,0 +1,4 @@
+node_modules
+local.readme.md
+.DS_Store
+.idea/*
